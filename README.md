@@ -5,7 +5,7 @@ A simple dice roller app for playing dice game.
 
 ## Instructions to Run Locally
 1. Clone the repository:
-    git clone https://github.com/ZaheerK-pro/todo-application.git
+    git clone https://github.com/ZaheerK-pro/Dice-Game.git
 
 ## Hosted Version
 You can access the live version of the app [here](https://diceroller-six.vercel.app/).
